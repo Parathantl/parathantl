@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parathan</h1>
 <h3 align="center">Working as a Full-time Lecturer at Uki Technology School, Part-time Freelancing on Full-Stack Web development</h3>
 
-<p align="left"> <a href="https://twitter.com/parathantl" target="blank"><img src="https://img.shields.io/twitter/follow/parathantl?logo=twitter&style=for-the-badge" alt="parathan_tl" /></a> </p>
-
 - 🌱 **Explorng myself on what I can do better with myself & for the community I am living**
 
 - 📫 How to reach me **parathan98@gmail.com**
