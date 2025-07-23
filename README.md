@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parathan</h1>
-<h3 align="center">Working as a Full-time Lecturer at Uki Technology School, Part-time Freelancing on Full-Stack Web development</h3>
+<h3 align="center">Full Stack Web Developer | Currently MSc student | Doing seriers of workshop on MERN stack</h3>
 
 - 🌱 **Explorng myself on what I can do better with myself & for the community I am living**
 
